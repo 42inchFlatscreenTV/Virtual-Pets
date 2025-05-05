@@ -53,7 +53,7 @@ def is_dead(self):
         self.dead = True
         print(f"{self.name} is dead.")
     else:
-        print(f"{self.name} is alive.")
+        print(f"{self.name} is alive.") 
 ###----Task 4----####
 # Make a new method called check_death() that checks when a pet dies.
 # These are the conditions I have chosen to use to determine if the pet should be dead.
